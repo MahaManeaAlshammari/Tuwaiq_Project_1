@@ -1,4 +1,10 @@
 BODY{
     background-color: #adb5bd;
-    
+}
+
+.mneu{
+display: flex;
+}
+.mneu1{
+    display: flex;
 }
