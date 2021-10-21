@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Qut0MkREUjt7H_hn0LNt-OLU3L59XvW_Gg&usqp=CAU");
+   display: grid; 
+    
+   
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: rgb(92, 153, 90);
+    padding: 10px;
+    font-size:large;
+}
+h3{
+    color: blueviolet;
+    font-size: 30px;
+}
+button{
+    text-align: center;
+    color: rgb(15, 110, 52);
+    background-color: rgb(224, 223, 125);
+}
+img{
+    width: 200px;
+    height:200px ;
+   
+}
